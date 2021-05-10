@@ -5,7 +5,7 @@ The image already has integrated PostgreSQL, Apache Tomcat and Chromium (for PDF
 
 ## Start the Container
 ### Using Command Line
-To start the JasperServer container, excute `docker run` specifying this image:
+To start the JasperServer container, execute `docker run` specifying this image:
 
 E.g. `docker run -d --name jasperserver -p 8080:8080 tobe81cwb/jasperserver`
 
