@@ -1,7 +1,7 @@
 # JasperReports Server Community Edition
 Docker image aiming to run **JasperServer Community Edition v7.8.0** in the quickest and simplest way, with the objective of developing and testing reports.
 
-The image already has integrated PostgreSQL and Apache Tomcat. There is no need for docker compose or other dockers with a database and other functions.
+The image already has integrated PostgreSQL, Apache Tomcat and Chromium (for PDF export). There is no need for docker compose or other dockers with a database and other functions.
 
 ## Start the Container
 ### Using Command Line
